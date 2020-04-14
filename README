@@ -1,0 +1,5 @@
+monk.py converts bibcode entry tags to SurnameYear format entry tags in automatically generated .bib files from ADS (libraries). 
+
+To run
+> python monk.py input.bib output.bib
+if no output file name specified, 'new_input.bib' automatically generated
